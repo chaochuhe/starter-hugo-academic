@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: 技能
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,15 @@ feature:
   - description: 90%
     icon: r-project
     icon_pack: fab
-    name: R
+    name: 智慧
   - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: 学习力
+  - description: 100%
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: 摄影
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
